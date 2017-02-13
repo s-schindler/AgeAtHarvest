@@ -1,0 +1,10 @@
+/*
+ * Author: Susanne Schindler
+ * Date: 13.02.2017
+ * Email: Susanne.Schindler2@web.de
+ * Copyright: Susanne Schindler
+ */
+
+There are two zip-files, one for the 4/5-curl regulation and one for the full-curl reguation.
+
+Each zip-file contains the java source code, parameter files, and list of random seeds that were used in the manuscripts. To repeat the simulations follow the instructions in the accompanying README-files. 
